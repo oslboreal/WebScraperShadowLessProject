@@ -1,0 +1,23 @@
+﻿1. [POST] addmefast.com ♥
+email: oslboreal@gmail.com
+password: 
+login_button: Login
+
+2. [GET] addmefast.com/welcome ♥
+
+3. [GET] http://addmefast.com/free_points/youtube_views
+
+4. Obtener TOKEN. ♥
+
+5. Pegarle a la getUrl CON EL TOKEN.
+http://addmefast.com/getUrl.php?i=JTI1NCUzRiVFNiVEMSUxNiVGQSVFQSUxNCU3QiVFMCU4OCUyNFg4JTNDJUNEJURFWSU5MQ==
+
+-------------------------------------------
+
+Using web browser.
+
+string postData = "value1=" + 1 + "&value2=" + 2 + "&value3=" + 3;
+System.Text.Encoding encoding = System.Text.Encoding.UTF8;
+byte[] bytes = encoding.GetBytes(postData);
+string url = "http://www.domain.com/addSomething";
+webBrowser1.Navigate(url, string.Empty, bytes, "Content-Type: application/x-www-form-urlencoded"); 
