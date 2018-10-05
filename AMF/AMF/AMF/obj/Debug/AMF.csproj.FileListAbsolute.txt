@@ -1,0 +1,8 @@
+C:\Users\mvallejo\Desktop\Visual Studio Projects\AMF\AMF\AMF\bin\Debug\AMF.exe.config
+C:\Users\mvallejo\Desktop\Visual Studio Projects\AMF\AMF\AMF\bin\Debug\AMF.exe
+C:\Users\mvallejo\Desktop\Visual Studio Projects\AMF\AMF\AMF\bin\Debug\AMF.pdb
+C:\Users\mvallejo\Desktop\Visual Studio Projects\AMF\AMF\AMF\obj\Debug\AMF.csprojResolveAssemblyReference.cache
+C:\Users\mvallejo\Desktop\Visual Studio Projects\AMF\AMF\AMF\obj\Debug\AMF.exe
+C:\Users\mvallejo\Desktop\Visual Studio Projects\AMF\AMF\AMF\obj\Debug\AMF.pdb
+C:\Users\mvallejo\Desktop\Visual Studio Projects\AMF\AMF\AMF\obj\Debug\AMF.Main.resources
+C:\Users\mvallejo\Desktop\Visual Studio Projects\AMF\AMF\AMF\obj\Debug\AMF.csproj.GenerateResource.Cache
